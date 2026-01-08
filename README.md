@@ -12,14 +12,11 @@
 
 ### 🌠 About Me
 
-🌙 Highly motivated **Systems Engineering student** with a strong passion for  
-**technology, research, and continuous learning**.
+🌙 Highly motivated **Systems Engineering student** with a strong passion for **technology, research, and continuous learning**.
 
-🚀 I enjoy building **clean, functional, and visually appealing applications**,  
-especially in **mobile development** and **user-friendly interfaces**.
+🚀 I enjoy building **clean, functional, and visually appealing applications**, especially in **mobile development** and **user-friendly interfaces**.
 
-🪐 Deeply interested in **Artificial Intelligence, Machine Learning, and Data Analysis**,  
-with a long-term goal of pursuing a **Master’s and PhD in AI**.
+🪐 Deeply interested in **Artificial Intelligence, Machine Learning, and Data Analysis**, with a long-term goal of pursuing a **Master’s and PhD in AI**.
 
 ---
 
@@ -37,8 +34,7 @@ with a long-term goal of pursuing a **Master’s and PhD in AI**.
 
 > *"Learning by doing, experimenting, and constantly improving."*
 
-🌱 Here you’ll find **academic projects, experiments, and personal initiatives**  
-as I grow as a developer and future AI researcher.
+🌱 Here you’ll find **academic projects, experiments, and personal initiatives** as I grow as a developer and future AI researcher.
 
 ---
 
