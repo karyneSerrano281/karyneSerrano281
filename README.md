@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PEGA_AQUI_LA_URL_DE_TU_BANNER" />
+  <img src="first banner.png" />
 </p>
 
 <h1 align="center">🌌 Hi, I'm Karyne ✨</h1>
