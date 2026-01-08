@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="first banner.png" />
+  <img src="first banner0.png" />
 </p>
 
 <h1 align="center">🌌 Hi, I'm Karyne ✨</h1>
