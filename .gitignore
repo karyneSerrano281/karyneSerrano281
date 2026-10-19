@@ -1,0 +1,12 @@
+# Keep README assets such as the profile banners; ignore only local noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+*.tmp
+*.bak
+*.log
+.env
+.env.*
+!.env.example
